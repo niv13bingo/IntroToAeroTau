@@ -1,5 +1,5 @@
 import numpy as np
-import source, uniform, vortex, doublet
+from base_flows import uniform, vortex, doublet
 
 
 class Uniform:
